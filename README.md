@@ -4,6 +4,11 @@
 
 I build distributed systems and infrastructure that handle massive scale—from real-time trading systems processing thousands messages per second to monitoring platforms ingesting 500k+ samples per second. My philosophy: the best code I've ever written is no code at all.
 
+## 🛠️ Featured Projects
+
+### [HyprDynamicMonitors](https://github.com/fiffeek/hyprdynamicmonitors)
+The first power-aware monitor manager for Hyprland. An event-driven display configuration tool with interactive TUI, profile-based switching, and real-time power state monitoring. Think Autorandr+Arandr, but purpose-built for Hyprland.
+
 ## 🚀 What I Do
 
 I specialize in:
@@ -21,11 +26,6 @@ I write about infrastructure, observability, and system administration at [filip
 - Observability infrastructure with Grafana Loki
 - Practical DevOps and infrastructure patterns
 - Real-world distributed systems challenges
-
-## 🛠️ Featured Projects
-
-### [HyprDynamicMonitors](https://github.com/fiffeek/hyprdynamicmonitors)
-The first power-aware monitor manager for Hyprland. An event-driven display configuration tool with interactive TUI, profile-based switching, and real-time power state monitoring. Think Autorandr+Arandr, but purpose-built for Hyprland.
 
 ## ☕ Sponsor
 
