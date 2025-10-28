@@ -1,6 +1,6 @@
 # Hi, I'm Filip Mikina 👋
 
-**Quantitative Technologist | Infrastructure & DevOps Specialist**
+**Software Engineer | Infrastructure & DevOps Specialist**
 
 I build distributed systems and infrastructure that handle massive scale—from real-time trading systems processing thousands messages per second to monitoring platforms ingesting 500k+ samples per second. My philosophy: the best code I've ever written is no code at all.
 
